@@ -24,5 +24,6 @@ def get_db():
     finally:
         db.close()
 
-#chetan is in chennai
+
+#chetan is in ggp
 #where is chetan
