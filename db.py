@@ -24,5 +24,4 @@ def get_db():
     finally:
         db.close()
 
-#hello world 544
-#hello world
+
